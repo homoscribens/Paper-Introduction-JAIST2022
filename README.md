@@ -8,7 +8,7 @@ If you have any comments or advices, do not hesitate to let us know!
 
 - **Close your the issue after you completed summrization!** \
 While you reading or summerizing a paper, keep opened the issue. After you are done with it, close the issue. \
-**For viewer**: Check the closed issues! Opened issues are still a work in progress.
+**For viewer**: Check the closed issues! Opened issues are still in progress.
 
 - **Do not forget to tag your issue!** \
 There will be various paper in this progect. Tag your paper so that everyone can indentify what kind of paper it is.
