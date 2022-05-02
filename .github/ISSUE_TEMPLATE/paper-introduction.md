@@ -7,14 +7,13 @@ assignees: ''
 
 ---
 
-### lync
-### conference
-### year
-### publisher
+### Lync
+### Conference / Year
+### Publisher
 
 ## head
 ### sub
 
 ## etc
 
-## comment
+## Comment
