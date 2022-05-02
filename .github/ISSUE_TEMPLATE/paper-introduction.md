@@ -1,20 +1,20 @@
 ---
 name: Paper introduction
 about: Describe this issue template's purpose here.
-title: ''
+title: '[Year] "Title"'
 labels: ''
 assignees: ''
 
 ---
 
-## Infos
+# Infos
 ### Lync
 ### Conference / Year
 ### Publisher
 
-## head
-### sub
+# head
+## sub
 
 ## etc
 
-## Comment
+# Comment
