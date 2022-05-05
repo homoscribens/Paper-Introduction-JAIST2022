@@ -1,6 +1,6 @@
 ---
 name: Paper introduction
-about: Describe this issue template's purpose here.
+about: Use for new paper introduction
 title: '[Year] "Title"'
 labels: ''
 assignees: ''
