@@ -4,7 +4,8 @@ This is a place for sharing paper you read.
 If you would like to share what you read, make issue of it and add the paper with .pdf file.
 
 - **This progect is now in a trial.** \
-If you have any comments or advices, do not hesitate to let us know!
+If you have any comments or advices, do not hesitate to let us know! \
+We set a Discussion for your opinion. 
 
 - **Close your the issue after you completed summrization!** \
 While you reading or summerizing a paper, keep opened the issue. After you are done with it, close the issue. \
